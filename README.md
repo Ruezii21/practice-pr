@@ -1,6 +1,6 @@
 # Practice Project
 
-A tiny project to practce the GitHub pull request workflow.
+A tiny project to practice the GitHub pull request workflow.
 
 ## What it does
 
